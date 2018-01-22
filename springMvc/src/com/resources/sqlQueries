@@ -1,0 +1,2 @@
+GET_EMPID = select * from myschema.emp99 where "NAME" ='?'
+API 
